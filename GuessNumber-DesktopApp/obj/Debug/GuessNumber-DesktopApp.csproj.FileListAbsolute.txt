@@ -1,0 +1,13 @@
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\bin\Debug\GuessNumber-DesktopApp.exe.config
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\bin\Debug\GuessNumber-DesktopApp.exe
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\bin\Debug\GuessNumber-DesktopApp.pdb
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber-DesktopApp.csprojAssemblyReference.cache
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber_DesktopApp.Properties.Resources.resources
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber-DesktopApp.csproj.GenerateResource.cache
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber-DesktopApp.csproj.CoreCompileInputs.cache
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber-DesktopApp.exe
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber-DesktopApp.pdb
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber_DesktopApp.GuessNumber.resources
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\bin\Debug\bg-BG\GuessNumber-DesktopApp.resources.dll
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\GuessNumber_DesktopApp.GuessNumber.bg-BG.resources
+D:\Projects\GuessNumber-DesktopApp\GuessNumber-DesktopApp\obj\Debug\bg-BG\GuessNumber-DesktopApp.resources.dll
